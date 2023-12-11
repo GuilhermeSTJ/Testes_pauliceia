@@ -11,8 +11,9 @@ Guilherme Sebastião Teodoro Junior - 11953911
 Rafael Ferreira Mendes - 12543141
 
 # Pastas
-/Features -> Se encontra os testes feitos usando cucumber
 
-/features/step_definitions -> Se encontra os testes automatizados usando capybara e selenium
+.../Features -> Se encontra os testes feitos usando cucumber
 
-/features/support -> Variaveis de ambiente
+.../features/step_definitions -> Se encontra os testes automatizados usando capybara e selenium
+
+.../features/support -> Variaveis de ambiente
