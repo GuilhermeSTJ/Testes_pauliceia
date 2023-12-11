@@ -58,6 +58,10 @@ Then('i should see {string} card') do |string|
   page.should have_content(string)
 end
 
+Then('I should see {string}') do |string|
+  page.should have_content(string)
+end
+
 When('click the "Ativar" button on the "A enchente de 1850" card') do
   find(:xpath, '/html/body/div[1]/section/div/section/div/div[2]/div/div/div/div[2]/article[2]/div/div[2]/button').click
 end
