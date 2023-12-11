@@ -12,5 +12,7 @@ Rafael Ferreira Mendes - 12543141
 
 # Pastas
 /Features -> Se encontra os testes feitos usando cucumber
+
 /features/step_definitions -> Se encontra os testes automatizados usando capybara e selenium
+
 /features/support -> Variaveis de ambiente
